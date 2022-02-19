@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/AGU_22_DL_comparison
 venue: "2021 AGU Fall Meeting"
-date: 12-15-2021
+date: 2021-12-15
 location: "New Orleans, Louisiana"
 ---
 
