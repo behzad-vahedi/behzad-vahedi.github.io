@@ -7,13 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Behzad Vahedi / Personal Website"
-title_separator          : "-"
+title                    : "Behzad Vahedi, Personal Website"
+title_separator          : "|"
 name                     : &name "Behzad Vahedi"
 description              : &description "Geospatial data science - Spatiotemporal Machine Learning - GeoAI"
 url                      : "https://behzad-vahedi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "behzad-vahedi/behzad-vahedi.github.io"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
