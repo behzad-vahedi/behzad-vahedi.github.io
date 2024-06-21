@@ -13,6 +13,13 @@ I have a B.Sc. in Geomatics Engineering and a M.Sc. in GIS Engineering from K.N.
 - **Computer Vision:** image classification, semantic segmentation, computer vision for earth observation data
 - **Deep Learning:** transfer learning, time-series forecasting, spatiotemporal deep learning
 
+## Skills
+- **General:**	Machine learning, Deep learning, Geospatial data science, CI/CD, DevOps, MLOps, HTML, CSS
+- **Programming:**	Python (proficient), JAVA (intermediate), ASP.NET, SQL, R
+- **Deep Learning:**	PyTorch, Tensorflow, Scikit-Learn, Hugging Face, Weights & Biases (wandb)
+- **Geospatial:**	GDAL, GeoPandas, RasterIO ArcGIS, QGIS, Google Earth Engine
+- **Other:**	Google Cloud Platform (GCP), Docker, Git, GitHub Actions and workflows, location data analytics
+
 ## News
 
 - **[Jun. 2024]** Our paper on Partial Label Learning for sea ice classification is accepted in IEEE JSTARS journal.
@@ -20,13 +27,6 @@ I have a B.Sc. in Geomatics Engineering and a M.Sc. in GIS Engineering from K.N.
 - **[Aug. 2023]** I finihed my internship at the Earth Lab at CU Boulder.
 - **[Sep. 2023]** Our paper on Sea Ice Segmentation is published in IEEE TGRS. Read more [here](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2248560)
 - **[Dec. 2021]** I received the Outstanding Student Presentation Award from AGU for my presentation at Fall Meeting 2021. Read more [here](https://www.agu.org/user-profile?cstkey=8cc1bde5-64f1-4758-83c4-e63ebb024ab6)
-
-## Skills
-- **General:**	Machine learning, Deep learning, Geospatial data science, CI/CD, DevOps, MLOps, HTML, CSS
-- **Programming:**	Python (proficient), JAVA (intermediate), ASP.NET, SQL, R
-- **Deep Learning:**	PyTorch, Tensorflow, Scikit-Learn, Hugging Face, Weights & Biases (wandb)
-- **Geospatial:**	GDAL, GeoPandas, RasterIO ArcGIS, QGIS, Google Earth Engine
-- **Other:**	Google Cloud Platform (GCP), Docker, Git, GitHub Actions and workflows, location data analytics
 
 
 {% include_relative _includes/publications.md %}
