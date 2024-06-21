@@ -1,0 +1,18 @@
+main:
+  - title: "Sea Ice Type Classification using Deep Convolutional Networks and Partial Label Learning"
+    authors: Behzad Vahedi, Benjamin Lucas, Farnoush Banaei-Kashani, Andrew Barrett, Walt Meier, Morteza Karimzadeh
+    conference_short: AGU
+    conference: American Geophysical Union (AGU) Fall Meeting 2022, Chicago, IL, US <strong>(AGU-22)</strong>
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    abstract: https://ui.adsabs.harvard.edu/abs/2022AGUFMTALK...52V/abstract
+    # image: ./assets/img/AGU_22.png
+    notes: Invited Talk
+
+  - title: "Semantic Segmentation of Sea Ice Using Multi-scale Spatial Context"
+    authors: Behzad Vahedi, Rafael Pires de Lima, Benjamin Lucas, Morteza Karimzadeh
+    conference_short: AGU
+    conference: American Geophysical Union (AGU) Fall Meeting 2022, Chicago, IL, US <strong>(AGU-22)</strong>
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    abstract: https://ui.adsabs.harvard.edu/abs/2022AGUFM.C44A..04V/abstract
+    # image: ./assets/img/teaser_example.png

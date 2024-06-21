@@ -1,0 +1,56 @@
+main:
+
+  - title: "Partial Label Learning with Focal Loss for Sea Ice Classification Based on Ice Charts"
+    authors: <strong>Behzad Vahedi</strong>, Benjamin Lucas, Farnoush Banaei-Kashani, Andrew P Barrett, Walter N Meier, Siri Jodha Khalsa, Morteza Karimzadeh
+    journal_short: IEEE-JSTARS 
+    journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>
+    pdf: https://arxiv.org/pdf/2406.03645
+    code: https://behzad-vahedi.github.io/ #TODO: Add your code repository link
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/PLL_paper.png
+
+  - title: "Spatiotemporal prediction of COVID-19 cases using inter-and intra-county proxies of human interactions"
+    authors: <strong>Behzad Vahedi</strong>, Morteza Karimzadeh, Hamidreza Zoraghein
+    journal_short: Nature Comm. 
+    journal: Nature communications
+    pdf: https://www.nature.com/articles/s41467-021-26742-6
+    code: https://github.com/geohai/COVID19-STGXB
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/COVID19_STGXB.png
+
+  - title: "Enhancing sea ice segmentation in Sentinel-1 images with atrous convolutions"
+    authors: Rafael Pires de Lima, <strong>Behzad Vahedi</strong>, Nick Hughes, Andrew P Barrett, Walter Meier, Morteza Karimzadeh
+    journal_short: IJRS
+    journal: International Journal of Remote Sensing <strong>(IJRS)</strong>
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/01431161.2023.2248560
+    code: https://github.com/geohai/sea-ice-segment
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/sea_ice_segment.jpg
+
+  - title: "Comparison of Cross-Entropy, Dice, and Focal Loss for Sea Ice Type Segmentation"
+    authors: Rafael Pires de Lima, <strong>Behzad Vahedi</strong>, Morteza Karimzadeh
+    conference_short: IEEE-IGARSS 
+    conference: EEE International Geoscience and Remote Sensing Symposium <strong>(IGARSS)</strong>, 2023
+    pdf: https://ieeexplore.ieee.org/abstract/document/10282060
+    code: https://github.com/geohai/sea-ice-segment
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/loss_comparison.png
+
+  - title: "A spatiotemporal machine learning approach to forecasting COVID-19 incidence at the county level in the USA"
+    authors: Benjamin Lucas, <strong>Behzad Vahedi</strong>, Morteza Karimzadeh
+    journal_short: IJDSA
+    journal: International Journal of Data Science and Analytics <strong>(IJDSA)</strong>
+    pdf: https://link.springer.com/article/10.1007/s41060-021-00295-9
+    code: https://github.com/geohai/covid-lstm
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/covid_lstm.png
+
+
+  - title: "The United States COVID-19 Forecast Hub dataset"
+    authors: Estee Y. Cramer, et al.
+    journal_short: IJDSA
+    journal: Scientific Data
+    pdf: https://www.nature.com/articles/s41597-022-01517-w
+    code: https://github.com/reichlab/covid19-forecast-hub
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/covid_hub.png
