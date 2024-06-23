@@ -27,10 +27,10 @@ I am open to industry positions in machine learning engineering or research, whe
 ## News
 
 - **[Jun. 2024]** Our paper on Partial Label Learning for sea ice classification is accepted in IEEE JSTARS journal.
-- **[Feb. 2024]** I finished my AI Residency at Google X, where I gained invaluable experience working on Climate AI modeling and DevOps. Read about our team [here](https://x.company/projects/bellwether/)
+- **[Feb. 2024]** I finished my AI Residency at Google X, where I gained invaluable experience working on Climate AI modeling and DevOps. Read about our team [here](https://x.company/projects/bellwether/).
 - **[Aug. 2023]** I finihed my internship at the Earth Lab at CU Boulder where I worked on [FiredPy](https://earthlab.colorado.edu/blog/fired-fire-event-dilineation), a Python package for Fire Event Dilineation.
-- **[Sep. 2023]** Our paper on Sea Ice Segmentation is published in IEEE TGRS. Read more [here](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2248560)
-- **[Dec. 2021]** I received the Outstanding Student Presentation Award from AGU for my presentation at Fall Meeting 2021. Read more [here](https://www.agu.org/user-profile?cstkey=8cc1bde5-64f1-4758-83c4-e63ebb024ab6)
+- **[Sep. 2023]** Our paper on Sea Ice Segmentation is published in IEEE TGRS. Read more [here](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2248560).
+- **[Dec. 2021]** I received the Outstanding Student Presentation Award from AGU for my presentation at Fall Meeting 2021. Read more [here](https://www.agu.org/user-profile?cstkey=8cc1bde5-64f1-4758-83c4-e63ebb024ab6).
 
 
 {% include_relative _includes/publications.md %}
