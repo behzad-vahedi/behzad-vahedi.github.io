@@ -57,7 +57,7 @@ main:
 
   - title: "The United States COVID-19 Forecast Hub dataset"
     authors: Estee Y. Cramer, et al.
-    journal_short: IJDSA
+    journal_short: Sci. Data
     journal: Scientific Data
     pdf: https://www.nature.com/articles/s41597-022-01517-w
     code: https://github.com/reichlab/covid19-forecast-hub
