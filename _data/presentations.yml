@@ -1,18 +1,53 @@
 main:
   - title: "Sea Ice Type Classification using Deep Convolutional Networks and Partial Label Learning"
-    authors: Behzad Vahedi, Benjamin Lucas, Farnoush Banaei-Kashani, Andrew Barrett, Walt Meier, Morteza Karimzadeh
-    conference_short: AGU
+    authors: <strong>Behzad Vahedi</strong>, Benjamin Lucas, Farnoush Banaei-Kashani, Andrew Barrett, Walt Meier, Morteza Karimzadeh
+    conference_short: AGU-22
     conference: American Geophysical Union (AGU) Fall Meeting 2022, Chicago, IL, US <strong>(AGU-22)</strong>
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     abstract: https://ui.adsabs.harvard.edu/abs/2022AGUFMTALK...52V/abstract
-    # image: ./assets/img/AGU_22.png
+    image: ./assets/img/AGU_22_PLL.png
     notes: Invited Talk
 
   - title: "Semantic Segmentation of Sea Ice Using Multi-scale Spatial Context"
-    authors: Behzad Vahedi, Rafael Pires de Lima, Benjamin Lucas, Morteza Karimzadeh
-    conference_short: AGU
+    authors: <strong>Behzad Vahedi</strong>, Rafael Pires de Lima, Benjamin Lucas, Morteza Karimzadeh
+    conference_short: AGU-22
     conference: American Geophysical Union (AGU) Fall Meeting 2022, Chicago, IL, US <strong>(AGU-22)</strong>
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     abstract: https://ui.adsabs.harvard.edu/abs/2022AGUFM.C44A..04V/abstract
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/AGU_22_segmentation.png
+  
+  - title: "MIPL-Ice: A Multi-Instance Proportion-Label Learning Method for Polygon-Level Sea Ice Classification"
+    authors: Samira Alkaee Taleghan, <strong>Behzad Vahedi</strong>, Morteza Karimzadeh, Andrew Barrett, Walt Meier, Siri Jodha S Khalsa, Farnoush Banaei-Kashani
+    conference_short: AGU-22
+    conference: American Geophysical Union (AGU) Fall Meeting 2022, Chicago, IL, US <strong>(AGU-22)</strong>
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    abstract: https://ui.adsabs.harvard.edu/abs/2022AGUFM.C56A..05A/abstract
+    image: ./assets/img/AGU_FallMeeting22.jpg
+
+  - title: "A Comparison Of Classic Deep Learning Architectures For Sea Ice Classification From SAR"
+    authors: <strong>Behzad Vahedi</strong>, Benjamin Lucas, Morteza Karimzadeh, Siri Jodha Khalsa, Walter Meier, Andrew Barrett, Farnoush Banaei-Kashani
+    conference_short: AGU-21
+    conference: American Geophysical Union (AGU) Fall Meeting 2021, New Orleans, LA <strong>(AGU-21)</strong>
+    poster: https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=5B-14-EC-9A-48-6D-D5-0F-1D-01-16-39-DD-4A-B2-6C
+    abstract: https://ui.adsabs.harvard.edu/abs/2021AGUFMIN31A..05V/abstract
+    image: ./assets/img/AGU_21_comparison.png
+    notes: Outstanding Student Presentation Award (OSPA)
+    # link: https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=5B-14-EC-9A-48-6D-D5-0F-1D-01-16-39-DD-4A-B2-6C
+
+  - title: "Sea Ice Type Classification from Sentinel-1 SAR Imagery Using Deep Neural Networks"
+    authors: <strong>Behzad Vahedi</strong>, Benjamin Lucas, Siri Jodha Khalsa, Walter Meier, Andrew Barrett, Tobby Lie, Farnoush Banaei-Kashani, Morteza Karimzadeh
+    conference_short: AGU-21
+    conference: American Geophysical Union (AGU) Fall Meeting 2021, New Orleans, LA <strong>(AGU-21)</strong>
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    abstract: https://ui.adsabs.harvard.edu/abs/2021AGUFM.C35H0967V/abstract
+    image: ./assets/img/AGU_21_classification.png
+
+  - title: "Exploring the notion of spatial lenses"
+    authors: Christopher Allen, Thomas Hervey, Sara Lafia, Daniel W Phillips, <strong>Behzad Vahedi</strong>, Werner Kuhn
+    conference_short: GIScience 16
+    conference: Geographic Information Science; 9th International Conference, <strong>GIScience 2016</strong>, Montreal, QC, Canada, 2016.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-319-45738-3_17
+    # abstract: https://ui.adsabs.harvard.edu/abs/2022AGUFM.C44A..04V/abstract
+    image: ./assets/img/lenses.png
+    notes: Author order is alphabetical. I was the presenter of this work.

@@ -18,6 +18,15 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/COVID19_STGXB.png
 
+  - title: "Question-based spatial computing—a case study"
+    authors: <strong>Behzad Vahedi</strong>, Werner Kuhn, Andrea Ballatore
+    conference_short: AGILE 16 
+    conference: Geospatial Data in a Changing World; Selected papers of the 19th AGILE Conference on Geographic Information Science
+    pdf: https://link.springer.com/chapter/10.1007/978-3-319-33783-8_3
+    code: https://github.com/spatial-ucsb/ConceptsOfSpatialInformation
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/china_lights.png
+
   - title: "Enhancing sea ice segmentation in Sentinel-1 images with atrous convolutions"
     authors: Rafael Pires de Lima, <strong>Behzad Vahedi</strong>, Nick Hughes, Andrew P Barrett, Walter Meier, Morteza Karimzadeh
     journal_short: IJRS
@@ -54,3 +63,21 @@ main:
     code: https://github.com/reichlab/covid19-forecast-hub
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/covid_hub.png
+
+  - title: "GIS-based spatial modeling of COVID-19 incidence rate in the continental United States"
+    authors: Abolfazl Mollalo, <strong>Behzad Vahedi</strong>, Kiara M Rivera
+    journal_short: STE
+    journal: Science of The Total Environment
+    pdf: https://www.sciencedirect.com/science/article/pii/S0048969720324013
+    # code: https://github.com/reichlab/covid19-forecast-hub
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/covid_gwr.png
+
+  - title: "Artificial neural network modeling of novel coronavirus (COVID-19) incidence rates across the continental United States"
+    authors: Abolfazl Mollalo, Kiara M Rivera, <strong>Behzad Vahedi</strong>
+    journal_short: IJERPH
+    journal: International journal of environmental research and public health
+    pdf: https://www.mdpi.com/1660-4601/17/12/4204
+    # code: https://github.com/reichlab/covid19-forecast-hub
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/covid_ann.png
