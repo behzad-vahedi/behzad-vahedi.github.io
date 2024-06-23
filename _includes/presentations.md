@@ -16,7 +16,12 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      {% if link.pdf %} 
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% endif %}
+      {% if link.abstract %}
+      <div class="title"><a href="{{ link.abstract }}">{{ link.title }}</a></div>
+      {% endif %}
       <div class="author">{{ link.authors }}</div>
       {% if link.conference %} 
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -37,6 +42,9 @@
       {% endif %}
       {% if link.abstract %} 
       <a href="{{ link.abstract }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Abstract</a>
+      {% endif %}
+      {% if link.poster %} 
+      <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>

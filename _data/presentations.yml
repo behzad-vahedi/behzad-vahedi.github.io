@@ -33,7 +33,6 @@ main:
     abstract: https://ui.adsabs.harvard.edu/abs/2021AGUFMIN31A..05V/abstract
     image: ./assets/img/AGU_21_comparison.png
     notes: Outstanding Student Presentation Award (OSPA)
-    # link: https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=5B-14-EC-9A-48-6D-D5-0F-1D-01-16-39-DD-4A-B2-6C
 
   - title: "Sea Ice Type Classification from Sentinel-1 SAR Imagery Using Deep Neural Networks"
     authors: <strong>Behzad Vahedi</strong>, Benjamin Lucas, Siri Jodha Khalsa, Walter Meier, Andrew Barrett, Tobby Lie, Farnoush Banaei-Kashani, Morteza Karimzadeh
